@@ -9,7 +9,6 @@ segundoValor = int.Parse(ReadLine());
 Write("Digite o terceiro valor: ");
 terceiroValor = int.Parse(ReadLine());
 //Saída de dados
-
 bool resultado1 = primeiroValor == terceiroValor;
 bool resultado2 = segundoValor != primeiroValor;
 bool resultado3 = segundoValor > terceiroValor;
@@ -24,7 +23,6 @@ Write("");
 WriteLine($"4 - O primeiro valor é menor ou igual que terceiro valor? R:{resultado4}");
 
 Write("");
-
 
 bool resposta1 = resultado1 & resultado3;
 WriteLine($" --> A comparação da primeira e terceira pergunta é verdadeira? R: {resposta1} ");
