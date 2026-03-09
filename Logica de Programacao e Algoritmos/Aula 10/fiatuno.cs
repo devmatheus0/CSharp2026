@@ -35,6 +35,7 @@ while (true){
         {
             WriteLine("Saindo do aplicativo...");
             Write("Aplicativo encerrado");
+            break;
         }
         else
             {
