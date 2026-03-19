@@ -22,3 +22,4 @@ WriteLine($"Dados atualizados: {p.Dados_do_Produto()}");
 Write("Digite a quantidade a ser removida do estoque: ");
 qtd = int.Parse(ReadLine());
 Write($"Dados atualizados: {p.Dados_do_Produto}");
+ReadKey();
