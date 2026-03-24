@@ -1,6 +1,5 @@
 ﻿using funcionario;
 using static System.Console;
-double porcentagem;
 
 WriteLine("Digite as informações do funcionário:");
 
@@ -10,13 +9,21 @@ Write("Digite o salário do funcionário: ");
 double salario = double.Parse(ReadLine());
 Write("Digite o valor do imposto sobre o salário funcionário: ");
 double imposto = double.Parse(ReadLine());
-Write("Digite a porcentagem de aumento do salário do funcionário: ");
-porcentagem = double.Parse(ReadLine());
-Write($"Salário do funcionário aumentado em: {porcentagem}%");
 
-
-
+WriteLine("Dados do funcionário");
+WriteLine($"Nome do funcionario: {nome}");
+WriteLine($"Salario do funcionario: {salario - imposto}");
 Dados f = new Dados (nome, salario, imposto);
+
+WriteLine("Digite a porcentagem de aumento do salário do funcionário: ");
+double porcentagem = double.Parse(ReadLine());
+WriteLine($"Salário do funcionário aumentado em: {f.aumento_porcentagem}%");
+
+WriteLine($"Dados do funcionário atualizados!" +
+    $"{f.Dados_atualizados(nome,salario)}");
+
+
+
 f.aumento_porcentagem(porcentagem);
-f.salario_liquido(salario - imposto);
+f.salario_liquido(salario);
 f.Dados_atualizados(nome, salario);
