@@ -18,3 +18,5 @@ Write($"Salário do funcionário aumentado em: {porcentagem}%");
 
 Dados f = new Dados (nome, salario, imposto);
 f.aumento_porcentagem(porcentagem);
+f.salario_liquido(salario - imposto);
+f.Dados_atualizados(nome, salario);
