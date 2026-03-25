@@ -1,4 +1,5 @@
-﻿using static ExercicioDolar.Conversor;
+﻿using ExercicioDolar;
+using static ExercicioDolar.Conversor;
 using static System.Console;
 using static System.ConsoleColor;
 
@@ -11,7 +12,5 @@ ResetColor();
 Write("Quantos dólares você vai comprar?: ");
 double qtd = double.Parse(ReadLine());
 //Saída de dados
-WriteLine($"Valor a ser pago em reais: {}");
 
-Conversor cv = new Conversor ();
-};
+WriteLine($"Valor a ser pago em reais: {Converter(cotacao,qtd)}");

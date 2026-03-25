@@ -14,6 +14,6 @@ ResetColor();
 Calculadora c1 = new Calculadora(raio); //dado do raio registrado
 
 //Saída de dados
-WriteLine($"Circunferencia: {c1.circunferencia():F2}");
+WriteLine($"Circunferencia: {c1.Circunferencia():F2}");
 WriteLine($"Volume: {c1.Volume():F2}");
 WriteLine($"PI: {c1.Pi()}");
