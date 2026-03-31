@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="BancoMaster/BancoMaster.csproj" />
+  <Project Path="Heranca/Heranca.csproj" />
+</Solution>
