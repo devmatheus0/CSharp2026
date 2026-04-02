@@ -2,20 +2,39 @@
 {
     internal class ContaEmpresa : Conta
     {
-        private int limite;
+        //Campo
+        private double limite;
 
-        public int LimiteConta
+
+
+        //Propriedade
+
+        public double LimiteDeEmprestimo
         {
             get { return limite; }
             set { limite = value; }
         }
 
-        public ContaEmpresa(int numeroConta, string titularConta) : base(numeroConta, titularConta)
+       //Construtor
+        public ContaEmpresa(int numeroConta, string titularConta, double limite) 
+        : base(numeroConta, titularConta)
         {
+            LimiteDeEmprestimo = limite;
         }
 
-        public ContaEmpresa(int numeroConta, string titularConta, double saldoConta) : base(numeroConta, titularConta, saldoConta)
+        public ContaEmpresa(int numeroConta, string titularConta, double saldoConta, double limite)
+        : base(numeroConta, titularConta, saldoConta)
         {
+            LimiteDeEmprestimo = limite;
         }
+
+        //Método
+        public void Emprestimo (double qtd)
+        {
+            LimiteDeEmprestimo -= qtd;
+            SaldoConta += qtd;
+        }
+
+
     }
 }

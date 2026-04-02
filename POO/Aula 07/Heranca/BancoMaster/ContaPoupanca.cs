@@ -2,28 +2,36 @@
 {
     internal class ContaPoupanca : Conta
     {
-		private int TaxaJuros;
+        //Campos
+		private double Juros;
 
-        public double taxa
-		{
-			get { return TaxaJuros; }
-			set { TaxaJuros = 5; }
-		}
-
-        public ContaPoupanca(int numeroConta, string titularConta) : 
-        base(numeroConta, titularConta)
+        //Propriedade
+        public double TaxaDeJuros
         {
-
+            get { return Juros; }
+            set { Juros = value; }
         }
 
-        public ContaPoupanca(int numeroConta, string titularConta, double saldoConta) : 
-        base(numeroConta, titularConta, saldoConta)
+        //Construtores
+        public ContaPoupanca(int numeroConta, string titularConta, double TaxaDeJuros) : base(numeroConta, titularConta)
         {
+            TaxaDeJuros = TaxaDeJuros;
+        }
+        public ContaPoupanca(int numeroConta, string titularConta, double saldoConta, double TaxaDeJuros) 
+        : base(numeroConta, titularConta, saldoConta)
+        {
+            TaxaDeJuros = TaxaDeJuros;
         }
 
-
-
-
-
+        //Métodos
+        public void Atualizacao()
+        {
+            SaldoConta = SaldoConta + (SaldoConta * TaxaDeJuros);
+        }
+        
+        public override void Saque (double qtd)
+        {
+            SaldoConta -= qtd;
+        }
 	}
 }
