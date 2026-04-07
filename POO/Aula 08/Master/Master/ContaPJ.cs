@@ -27,5 +27,10 @@
             SaldoConta += qtd;
         }
 
+        public override string ToString()
+        {
+            return base.ToString() + $"\n\t Limite conta: {limite:C}";
+        }
+
 	}
 }

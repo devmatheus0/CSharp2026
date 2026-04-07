@@ -25,8 +25,10 @@
 		{
 			Console.WriteLine($"Dados do cliente: \n" +
 				$"\t Nome: {DadosCliente}\n" +
+				$"\t CPF: {DadosCliente.cpf}\n" +
 				$"\t Numero: {NumeroConta}\n" +
-				$"\t Saldo: {SaldoConta}\n");
+				$"\t Saldo: {SaldoConta}\n" +
+				$"\t Rendimento: {rendimento}%");
 
 
         }
