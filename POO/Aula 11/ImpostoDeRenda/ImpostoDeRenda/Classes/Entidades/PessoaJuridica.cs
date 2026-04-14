@@ -18,18 +18,16 @@ namespace ImpostoDeRenda.Classes.Entidades
 		}
 
 
-		//Construtor
-        public PessoaJuridica(string nome, double rendaAnual) : base(nome, rendaAnual)
+        //Construtor
+        public PessoaJuridica(string nome, double rendaAnual, int numeroFuncionarios) : base(nome, rendaAnual)
         {
             NumeroFuncionarios = NumeroFuncionarios;
         }
 
-
-
         //Método
-        protected double imposto()
+        public override double imposto()
         {
-          
+            
         }
 
 

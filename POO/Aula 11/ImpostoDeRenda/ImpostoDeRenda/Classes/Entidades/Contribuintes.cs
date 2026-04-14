@@ -11,8 +11,12 @@ namespace ImpostoDeRenda.Classes.Entidades
         //Campos
         private string nome;
         private double rendaanual;
-
-
+        public const double baixoimpostopf = 0.15;
+        protected const double altoimpostopf = 0.25;
+        protected const double abatepf = 0.50;
+        protected const double impostopj = 0.16;
+        protected const double maisdezpj = 0.14;
+        
 
         //Propriedades
         public string Nome
@@ -34,6 +38,6 @@ namespace ImpostoDeRenda.Classes.Entidades
         }
         
         //Método
-        abstract protected double imposto();
+        public abstract double imposto();
     }
 }

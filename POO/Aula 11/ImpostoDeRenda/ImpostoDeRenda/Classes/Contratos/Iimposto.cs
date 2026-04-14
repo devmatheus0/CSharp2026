@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace ImpostoDeRenda.Classes.Contratos
+﻿namespace Imposto.Classes.Contratos
 {
     internal interface Iimposto
     {

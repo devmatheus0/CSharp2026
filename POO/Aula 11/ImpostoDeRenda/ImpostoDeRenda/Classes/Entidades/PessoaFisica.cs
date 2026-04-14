@@ -1,4 +1,4 @@
-﻿using ImpostoDeRenda.Classes.Contratos;
+﻿using ImpostoDeRenda.Classes;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -18,14 +18,14 @@ namespace ImpostoDeRenda.Classes.Entidades
 		}
 
         //Construtor
-        public PessoaFisica(string nome, double rendaAnual) : base(nome, rendaAnual)
+        public PessoaFisica(string nome, double rendaAnual, double gastosComSaude) : base(nome, rendaAnual)
         {
-            GastosComSaude = GastosComSaude;
+            GastosComSaude = gastosComSaude;
         }
 
-        public double imposto()
+        public override double imposto()
         {
-            return RendaAnual - GastosComSaude;
+           
         }
     }
 }
