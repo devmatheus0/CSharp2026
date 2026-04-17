@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Carros.Classes.Entidades.AluguelCarro">
+    <Position X="1" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAACAAAAAAAAAAAAAAQAAgAEAAIAAAAA=</HashCode>
+      <FileName>Classes\Entidades\AluguelCarro.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Carros.Classes.Entidades.Fatura">
+    <Position X="2.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAABAAAAAAAAAAAAACAAAAEgAAABAAAAA=</HashCode>
+      <FileName>Classes\Entidades\Fatura.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Carros.Classes.Entidades.Veiculo">
+    <Position X="4.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAIAAA=</HashCode>
+      <FileName>Classes\Entidades\Veiculo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Carros.Classes.Servicos.ServAluguel">
+    <Position X="8.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAgAAAAAAAAAAEAAAAAAIAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>Classes\Servicos\ServAluguel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Carros.Classes.Servicos.TaxaServBrasil">
+    <Position X="6.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Servicos\TaxaServBrasil.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
