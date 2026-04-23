@@ -16,7 +16,9 @@ namespace SistemaBancario.Classes.Contextos
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             // Use a file-based SQLite database to avoid dependency on LocalDB/SQL Server instance
-            optionsBuilder.UseSqlite("Data Source=BancoDB.db");
+            optionsBuilder.UseSqlServer(
+                @"Server=ECFP507D1319388\SQLEXPRESS
+                ;Database=Banco;Trusted_Connection=True;TrustServerCertificate=True;");
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
