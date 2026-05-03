@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="FuncionariosTax/FuncionariosTax.csproj" />
+  <Project Path="Notas/Notas.csproj" />
+</Solution>
