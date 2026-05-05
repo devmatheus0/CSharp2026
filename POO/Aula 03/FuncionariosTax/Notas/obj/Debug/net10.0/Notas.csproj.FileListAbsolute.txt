@@ -1,0 +1,14 @@
+C:\Users\MATHEUS RODRIGUES\Documents\CSHARP - DEVENDO\Aula 03\FuncionariosTax\Notas\bin\Debug\net10.0\Notas.exe
+C:\Users\MATHEUS RODRIGUES\Documents\CSHARP - DEVENDO\Aula 03\FuncionariosTax\Notas\bin\Debug\net10.0\Notas.deps.json
+C:\Users\MATHEUS RODRIGUES\Documents\CSHARP - DEVENDO\Aula 03\FuncionariosTax\Notas\bin\Debug\net10.0\Notas.runtimeconfig.json
+C:\Users\MATHEUS RODRIGUES\Documents\CSHARP - DEVENDO\Aula 03\FuncionariosTax\Notas\bin\Debug\net10.0\Notas.dll
+C:\Users\MATHEUS RODRIGUES\Documents\CSHARP - DEVENDO\Aula 03\FuncionariosTax\Notas\bin\Debug\net10.0\Notas.pdb
+C:\Users\MATHEUS RODRIGUES\Documents\CSHARP - DEVENDO\Aula 03\FuncionariosTax\Notas\obj\Debug\net10.0\Notas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MATHEUS RODRIGUES\Documents\CSHARP - DEVENDO\Aula 03\FuncionariosTax\Notas\obj\Debug\net10.0\Notas.AssemblyInfoInputs.cache
+C:\Users\MATHEUS RODRIGUES\Documents\CSHARP - DEVENDO\Aula 03\FuncionariosTax\Notas\obj\Debug\net10.0\Notas.AssemblyInfo.cs
+C:\Users\MATHEUS RODRIGUES\Documents\CSHARP - DEVENDO\Aula 03\FuncionariosTax\Notas\obj\Debug\net10.0\Notas.csproj.CoreCompileInputs.cache
+C:\Users\MATHEUS RODRIGUES\Documents\CSHARP - DEVENDO\Aula 03\FuncionariosTax\Notas\obj\Debug\net10.0\Notas.dll
+C:\Users\MATHEUS RODRIGUES\Documents\CSHARP - DEVENDO\Aula 03\FuncionariosTax\Notas\obj\Debug\net10.0\refint\Notas.dll
+C:\Users\MATHEUS RODRIGUES\Documents\CSHARP - DEVENDO\Aula 03\FuncionariosTax\Notas\obj\Debug\net10.0\Notas.pdb
+C:\Users\MATHEUS RODRIGUES\Documents\CSHARP - DEVENDO\Aula 03\FuncionariosTax\Notas\obj\Debug\net10.0\Notas.genruntimeconfig.cache
+C:\Users\MATHEUS RODRIGUES\Documents\CSHARP - DEVENDO\Aula 03\FuncionariosTax\Notas\obj\Debug\net10.0\ref\Notas.dll
