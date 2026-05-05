@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MasterBanco")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+12aa15dd9ccad1929f986bd5118c7ae2543c562b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1e08a9d044651ab9e7871ad7248a6a936cc66f7f")]
 [assembly: System.Reflection.AssemblyProductAttribute("MasterBanco")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MasterBanco")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
