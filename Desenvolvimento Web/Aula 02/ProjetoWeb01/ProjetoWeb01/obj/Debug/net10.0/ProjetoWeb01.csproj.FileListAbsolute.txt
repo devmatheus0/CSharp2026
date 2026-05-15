@@ -39,6 +39,6 @@ C:\Users\FIC\Documents\CSharp2026\Desenvolvimento Web\Aula 02\ProjetoWeb01\Proje
 C:\Users\FIC\Documents\CSharp2026\Desenvolvimento Web\Aula 02\ProjetoWeb01\ProjetoWeb01\obj\Debug\net10.0\ProjetoWeb01.pdb
 C:\Users\FIC\Documents\CSharp2026\Desenvolvimento Web\Aula 02\ProjetoWeb01\ProjetoWeb01\obj\Debug\net10.0\ProjetoWeb01.genruntimeconfig.cache
 C:\Users\FIC\Documents\CSharp2026\Desenvolvimento Web\Aula 02\ProjetoWeb01\ProjetoWeb01\obj\Debug\net10.0\ref\ProjetoWeb01.dll
-C:\Users\FIC\Documents\CSharp2026\Desenvolvimento Web\Aula 02\ProjetoWeb01\ProjetoWeb01\obj\Debug\net10.0\compressed\8d0g1uiunh-{0}-p991i1bkij-p991i1bkij.gz
 C:\Users\FIC\Documents\CSharp2026\Desenvolvimento Web\Aula 02\ProjetoWeb01\ProjetoWeb01\obj\Debug\net10.0\compressed\7iqoh73iqq-{0}-jbyghoithc-jbyghoithc.gz
-C:\Users\FIC\Documents\CSharp2026\Desenvolvimento Web\Aula 02\ProjetoWeb01\ProjetoWeb01\obj\Debug\net10.0\compressed\ej8d50hzaz-{0}-z5d6x61e3e-z5d6x61e3e.gz
+C:\Users\FIC\Documents\CSharp2026\Desenvolvimento Web\Aula 02\ProjetoWeb01\ProjetoWeb01\obj\Debug\net10.0\compressed\8d0g1uiunh-{0}-tosb0t2813-tosb0t2813.gz
+C:\Users\FIC\Documents\CSharp2026\Desenvolvimento Web\Aula 02\ProjetoWeb01\ProjetoWeb01\obj\Debug\net10.0\compressed\ej8d50hzaz-{0}-gq4rgisbjf-gq4rgisbjf.gz
