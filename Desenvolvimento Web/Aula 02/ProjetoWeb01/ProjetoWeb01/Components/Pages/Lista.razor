@@ -17,7 +17,7 @@
             </h2>
             <!--Implementar lógica para contagem no C#-->
             <span class="contador">
-                0 cadastros
+                @alunos.Count Cadastrados
             </span>
         </div>
         <div class="tabela-w">
@@ -32,18 +32,17 @@
                 </thead>
                 <tbody class="tabela-alunos2">
                     <!--Exemplo estático p/visualização (remover quando implementar c#)-->
-                    <tr>
-                        <td>Clodoaldo</td>
-                        <td>BackEnd</td>
-                        <td>Inativo</td>
-                        <td>Aguardando aprovação</td>
-                    </tr>
-                    <tr>
-                        <td>Kelwin</td>
-                        <td>Comandos elétricos</td>
-                        <td>Aprovado</td>
-                        <td>Aprovado</td>
-                    </tr>
+                        @foreach (var aluno in alunos)
+                        {
+                        <tr>
+                        <td>@aluno.Nome</td>
+                        <td>@ObterNomeCurso(aluno.CursoID)</td>
+                        <td>@aluno.StatusWIFI</td>
+                        <td>@aluno.StatusAction</td>
+                        </tr>
+                            
+                        }
+                    
                 </tbody>
             </table>
         </div>
@@ -56,5 +55,24 @@
 <Rodape/>
 </div>
 @code {
+
+    private List<Aluno> alunos = new List<Aluno>();
+    private Cursos cursos = new Cursos();
+
+    protected override async Task OnInitializedAsync()
+    {
+        //Carrega os aluno do banco de dados
+        alunos = await alunoContext.Alunos.ToListAsync();
+    }
+
+    //Retorna o nome do curso baseado no ID
+    private string ObterNomeCurso (int curso)
+    {
+        if (cursos.Curso.TryGetValue(curso, out var nomeCurso))
+        {
+            return nomeCurso;
+        }
+        return "Curso não encontrado";
+    }
 
 }
