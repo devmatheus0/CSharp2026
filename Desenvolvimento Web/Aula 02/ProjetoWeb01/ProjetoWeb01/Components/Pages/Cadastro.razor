@@ -1,4 +1,11 @@
 ﻿@page "/cadastro"
+@using ProjetoWeb01.Classes.Entidades;
+@using ProjetoWeb01.Classes.Serv;
+@using ProjetoWeb01.Dados;
+@inject AlunoService alunoService
+@inject NavigationManager navigationManager
+@rendermode InteractiveServer
+
 
 <div class="wrapper">
 <CabecalhoPagina/>
@@ -31,13 +38,6 @@
         </button>
     </form>
 </div>
-
-
-
-
-
-
-
 
 <Rodape/>
 </div>
