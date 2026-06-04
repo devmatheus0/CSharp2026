@@ -43,6 +43,7 @@ namespace ProjetoWeb01.Classes.Serv
                         Sucesso = false,
                         Mensagem = "Por favor, selecione um curso"
                     };
+                }
 
                     //Definir os status padrão para novos cadastros
                     aluno.StatusWIFI = "Inativo";
