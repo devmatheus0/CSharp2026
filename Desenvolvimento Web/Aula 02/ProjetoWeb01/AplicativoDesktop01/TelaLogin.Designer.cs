@@ -88,7 +88,7 @@
             button1.Text = "Logar";
             button1.UseVisualStyleBackColor = true;
             button1.Click += button1_Click;
-            button1.KeyPress += Enter;
+            
             // 
             // pictureBox1
             // 
