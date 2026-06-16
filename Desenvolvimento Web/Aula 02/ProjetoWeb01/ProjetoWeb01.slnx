@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="AplicativoDesktop01/AplicativoDesktop01.csproj" Id="47db87ae-d32b-450d-86e1-12361db97b4a" />
+  <Project Path="ProjetoAPI01/ProjetoAPI01.csproj" Id="f9246dbb-9041-48f6-bc72-201e95d33f9d" />
   <Project Path="ProjetoWeb01/ProjetoWeb01.csproj" />
 </Solution>
