@@ -47,7 +47,7 @@
             label1.Size = new Size(110, 27);
             label1.TabIndex = 0;
             label1.Text = "Usuário";
-            label1.Click += label1_Click;
+
             // 
             // label2
             // 
@@ -59,7 +59,7 @@
             label2.Size = new Size(82, 27);
             label2.TabIndex = 1;
             label2.Text = "Senha";
-            label2.Click += label2_Click;
+
             // 
             // textBox1
             // 
@@ -76,7 +76,6 @@
             textBox2.Size = new Size(290, 23);
             textBox2.TabIndex = 3;
             textBox2.TextAlign = HorizontalAlignment.Center;
-            textBox2.TextChanged += textBox2_TextChanged;
             // 
             // button1
             // 
@@ -114,7 +113,6 @@
             Name = "Form1";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Tela de Login";
-            Load += Form1_Load;
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ResumeLayout(false);
             PerformLayout();

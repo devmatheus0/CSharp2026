@@ -1,8 +1,3 @@
-C:\Users\FIC\Documents\CSharp2026\Desenvolvimento Web\Aula 02\ProjetoWeb01\AplicativoDesktop01\bin\Debug\net10.0-windows\AplicativoDesktop01.exe
-C:\Users\FIC\Documents\CSharp2026\Desenvolvimento Web\Aula 02\ProjetoWeb01\AplicativoDesktop01\bin\Debug\net10.0-windows\AplicativoDesktop01.deps.json
-C:\Users\FIC\Documents\CSharp2026\Desenvolvimento Web\Aula 02\ProjetoWeb01\AplicativoDesktop01\bin\Debug\net10.0-windows\AplicativoDesktop01.runtimeconfig.json
-C:\Users\FIC\Documents\CSharp2026\Desenvolvimento Web\Aula 02\ProjetoWeb01\AplicativoDesktop01\bin\Debug\net10.0-windows\AplicativoDesktop01.dll
-C:\Users\FIC\Documents\CSharp2026\Desenvolvimento Web\Aula 02\ProjetoWeb01\AplicativoDesktop01\bin\Debug\net10.0-windows\AplicativoDesktop01.pdb
 C:\Users\FIC\Documents\CSharp2026\Desenvolvimento Web\Aula 02\ProjetoWeb01\AplicativoDesktop01\obj\Debug\net10.0-windows\AplicativoDesktop01.Properties.Resources.resources
 C:\Users\FIC\Documents\CSharp2026\Desenvolvimento Web\Aula 02\ProjetoWeb01\AplicativoDesktop01\obj\Debug\net10.0-windows\AplicativoDesktop01.TelaAdmin.resources
 C:\Users\FIC\Documents\CSharp2026\Desenvolvimento Web\Aula 02\ProjetoWeb01\AplicativoDesktop01\obj\Debug\net10.0-windows\AplicativoDesktop01.TelaLogin.resources
@@ -12,6 +7,11 @@ C:\Users\FIC\Documents\CSharp2026\Desenvolvimento Web\Aula 02\ProjetoWeb01\Aplic
 C:\Users\FIC\Documents\CSharp2026\Desenvolvimento Web\Aula 02\ProjetoWeb01\AplicativoDesktop01\obj\Debug\net10.0-windows\AplicativoDesktop01.AssemblyInfo.cs
 C:\Users\FIC\Documents\CSharp2026\Desenvolvimento Web\Aula 02\ProjetoWeb01\AplicativoDesktop01\obj\Debug\net10.0-windows\AplicativoDesktop01.csproj.CoreCompileInputs.cache
 C:\Users\FIC\Documents\CSharp2026\Desenvolvimento Web\Aula 02\ProjetoWeb01\AplicativoDesktop01\obj\Debug\net10.0-windows\AplicativoDesktop01.sourcelink.json
+C:\Users\FIC\Documents\CSharp2026\Desenvolvimento Web\Aula 02\ProjetoWeb01\AplicativoDesktop01\bin\Debug\net10.0-windows\AplicativoDesktop01.exe
+C:\Users\FIC\Documents\CSharp2026\Desenvolvimento Web\Aula 02\ProjetoWeb01\AplicativoDesktop01\bin\Debug\net10.0-windows\AplicativoDesktop01.deps.json
+C:\Users\FIC\Documents\CSharp2026\Desenvolvimento Web\Aula 02\ProjetoWeb01\AplicativoDesktop01\bin\Debug\net10.0-windows\AplicativoDesktop01.runtimeconfig.json
+C:\Users\FIC\Documents\CSharp2026\Desenvolvimento Web\Aula 02\ProjetoWeb01\AplicativoDesktop01\bin\Debug\net10.0-windows\AplicativoDesktop01.dll
+C:\Users\FIC\Documents\CSharp2026\Desenvolvimento Web\Aula 02\ProjetoWeb01\AplicativoDesktop01\bin\Debug\net10.0-windows\AplicativoDesktop01.pdb
 C:\Users\FIC\Documents\CSharp2026\Desenvolvimento Web\Aula 02\ProjetoWeb01\AplicativoDesktop01\obj\Debug\net10.0-windows\AplicativoDesktop01.dll
 C:\Users\FIC\Documents\CSharp2026\Desenvolvimento Web\Aula 02\ProjetoWeb01\AplicativoDesktop01\obj\Debug\net10.0-windows\refint\AplicativoDesktop01.dll
 C:\Users\FIC\Documents\CSharp2026\Desenvolvimento Web\Aula 02\ProjetoWeb01\AplicativoDesktop01\obj\Debug\net10.0-windows\AplicativoDesktop01.pdb
