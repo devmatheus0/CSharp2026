@@ -43,7 +43,7 @@ namespace AplicativoDesktop01
                 }
 
                 var resultado = await resposta.Content.ReadFromJsonAsync<LoginResponseDTO>();
-                if (resultado.Regra != 1)
+                if (resultado.Regra == 1)
                 {
                     MessageBox.Show("Acesso negado. Este usuario não tem privilégios administrativos.");
                     return;
@@ -60,7 +60,7 @@ namespace AplicativoDesktop01
 
             catch (HttpRequestException) //ht
             {
-                MessageBox.Show($"Não foi possível conectar na API " ); //{ht.Message}
+                MessageBox.Show($"Não foi possível conectar na API "); //{ht.Message}
             }
         }
 
@@ -70,6 +70,9 @@ namespace AplicativoDesktop01
 
         }
 
-        
+        private void textBox2_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

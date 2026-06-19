@@ -47,7 +47,6 @@
             label1.Size = new Size(110, 27);
             label1.TabIndex = 0;
             label1.Text = "Usuário";
-
             // 
             // label2
             // 
@@ -59,7 +58,6 @@
             label2.Size = new Size(82, 27);
             label2.TabIndex = 1;
             label2.Text = "Senha";
-
             // 
             // textBox1
             // 
@@ -76,6 +74,7 @@
             textBox2.Size = new Size(290, 23);
             textBox2.TabIndex = 3;
             textBox2.TextAlign = HorizontalAlignment.Center;
+            textBox2.TextChanged += textBox2_TextChanged;
             // 
             // button1
             // 
@@ -87,7 +86,6 @@
             button1.Text = "Logar";
             button1.UseVisualStyleBackColor = true;
             button1.Click += button1_Click;
-            
             // 
             // pictureBox1
             // 
@@ -98,7 +96,7 @@
             pictureBox1.TabIndex = 5;
             pictureBox1.TabStop = false;
             // 
-            // Form1
+            // TelaLogin
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
@@ -110,7 +108,7 @@
             Controls.Add(textBox1);
             Controls.Add(label2);
             Controls.Add(label1);
-            Name = "Form1";
+            Name = "TelaLogin";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Tela de Login";
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
