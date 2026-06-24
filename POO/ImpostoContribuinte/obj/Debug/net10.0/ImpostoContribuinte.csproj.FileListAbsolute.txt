@@ -1,0 +1,14 @@
+C:\Users\MATHEUS RODRIGUES\Downloads\ImpostoContribuinte\bin\Debug\net10.0\ImpostoContribuinte.exe
+C:\Users\MATHEUS RODRIGUES\Downloads\ImpostoContribuinte\bin\Debug\net10.0\ImpostoContribuinte.deps.json
+C:\Users\MATHEUS RODRIGUES\Downloads\ImpostoContribuinte\bin\Debug\net10.0\ImpostoContribuinte.runtimeconfig.json
+C:\Users\MATHEUS RODRIGUES\Downloads\ImpostoContribuinte\bin\Debug\net10.0\ImpostoContribuinte.dll
+C:\Users\MATHEUS RODRIGUES\Downloads\ImpostoContribuinte\bin\Debug\net10.0\ImpostoContribuinte.pdb
+C:\Users\MATHEUS RODRIGUES\Downloads\ImpostoContribuinte\obj\Debug\net10.0\ImpostoContribuinte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MATHEUS RODRIGUES\Downloads\ImpostoContribuinte\obj\Debug\net10.0\ImpostoContribuinte.AssemblyInfoInputs.cache
+C:\Users\MATHEUS RODRIGUES\Downloads\ImpostoContribuinte\obj\Debug\net10.0\ImpostoContribuinte.AssemblyInfo.cs
+C:\Users\MATHEUS RODRIGUES\Downloads\ImpostoContribuinte\obj\Debug\net10.0\ImpostoContribuinte.csproj.CoreCompileInputs.cache
+C:\Users\MATHEUS RODRIGUES\Downloads\ImpostoContribuinte\obj\Debug\net10.0\ImpostoContribuinte.dll
+C:\Users\MATHEUS RODRIGUES\Downloads\ImpostoContribuinte\obj\Debug\net10.0\refint\ImpostoContribuinte.dll
+C:\Users\MATHEUS RODRIGUES\Downloads\ImpostoContribuinte\obj\Debug\net10.0\ImpostoContribuinte.pdb
+C:\Users\MATHEUS RODRIGUES\Downloads\ImpostoContribuinte\obj\Debug\net10.0\ImpostoContribuinte.genruntimeconfig.cache
+C:\Users\MATHEUS RODRIGUES\Downloads\ImpostoContribuinte\obj\Debug\net10.0\ref\ImpostoContribuinte.dll
